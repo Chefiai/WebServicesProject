@@ -1,0 +1,5 @@
+/Users/omaimachefiai/maven/obj/Debug/net7.0/DB.csproj.AssemblyReference.cache
+/Users/omaimachefiai/maven/obj/Debug/net7.0/DB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omaimachefiai/maven/obj/Debug/net7.0/DB.AssemblyInfoInputs.cache
+/Users/omaimachefiai/maven/obj/Debug/net7.0/DB.AssemblyInfo.cs
+/Users/omaimachefiai/maven/obj/Debug/net7.0/DB.csproj.CoreCompileInputs.cache
